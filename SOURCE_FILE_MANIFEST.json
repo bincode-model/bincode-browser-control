@@ -1,0 +1,866 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 84,
+      "sha256": "9e1d736f7145d80ea9f9be60f94ea2a960f4dee7ef6332bcb697c535de94c8a1",
+      "git_blob_sha1": "3474960cde15ad25286d198fbb64e8a822ba0e7d",
+      "mode": "0o644"
+    },
+    {
+      "path": "AI与MCP接入说明.txt",
+      "bytes": 4261,
+      "sha256": "cc5b0c2d7741fb6c42a70a12fd099db15d564ba94a47859b2d09af88d7476d89",
+      "git_blob_sha1": "3e3c2a1809894622988339e9ab70f928a294b3ce",
+      "mode": "0o644"
+    },
+    {
+      "path": "BACKUP_MANIFEST.json",
+      "bytes": 8907,
+      "sha256": "03b065ed54e9658348f0377a8a86f229034f3d569273ea86d72e56057a437a8e",
+      "git_blob_sha1": "d41441b5f2971e424aacadac12125a195b5eb079",
+      "mode": "0o644"
+    },
+    {
+      "path": "BACKUP_README.md",
+      "bytes": 378,
+      "sha256": "b241b22898adf54556f8ef24f9f47f1aabfb546b15c887672f70d63edf287823",
+      "git_blob_sha1": "580c119a7a5376c824a2bea3e4d034e398a05431",
+      "mode": "0o644"
+    },
+    {
+      "path": "GitHub参考与版本.txt",
+      "bytes": 2377,
+      "sha256": "b2fc2c56b76956351aab8724af9191f51de81c8b95452972b3fbc5b4a882be8d",
+      "git_blob_sha1": "3e2d3432e7a8ed2647b743c3cdf94d51f31a46c4",
+      "mode": "0o644"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2244,
+      "sha256": "7c24f753140e0d68c2ebec84f4fe32ea16bdc4e657303e564c1dcf3738c46b6a",
+      "git_blob_sha1": "74197022997149edbd714199ffbef5d3ec0758d5",
+      "mode": "0o644"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1829,
+      "sha256": "4f4db6a2ed49b583732d8ff73d9afa9b33939dec387a6be6b920bdf2b509e00e",
+      "git_blob_sha1": "5194c71df97acf4e4fd8400c20d84a20a7514b71",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/branding/bincode-logo.png",
+      "bytes": 1542277,
+      "sha256": "62162d352b956ab242830624c12c1e6b08a0b13efc308034de43bb16ff27f26e",
+      "git_blob_sha1": "9a8782909fd1c498f4aba8e2c89c3fb1696e7664",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/branding/生成说明.txt",
+      "bytes": 1670,
+      "sha256": "875c24cdd2d1a09abe22c07ef4f96119a96f7f704a0ea8ffa0c64d25ef51be9d",
+      "git_blob_sha1": "488bfc9750a479d40b3b28b7d940a15a66701441",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/marketing/IMAGE_GENERATION.md",
+      "bytes": 2245,
+      "sha256": "de2aab4cefbd588d5eadab0185959b79a8c4abdf220bc62e62a16e96efca5164",
+      "git_blob_sha1": "836e631d503bf618e7b9935971b66b72bb81e6f1",
+      "mode": "0o644"
+    },
+    {
+      "path": "assets/marketing/bincode-browser-control-intro-16x9.png",
+      "bytes": 1797526,
+      "sha256": "a6609014759f6093567840f0e3de2e2f58112e62da9f4adfd9a44a4c41ecc36c",
+      "git_blob_sha1": "1b95d76e6f9fd3047d2b37dc45f04346a4749e59",
+      "mode": "0o644"
+    },
+    {
+      "path": "backup-metadata/ARCHIVE_SOURCE_COMPARISON.json",
+      "bytes": 519,
+      "sha256": "738066110d8710feb23cc4be2dcad1541690c4fe4c2d5e7902dd1c2547c2d6e2",
+      "git_blob_sha1": "3d8b86bef4264454637b06f15c0df3dec87e7a8b",
+      "mode": "0o644"
+    },
+    {
+      "path": "backup-metadata/BACKUP_NOTES.md",
+      "bytes": 1457,
+      "sha256": "dae946f27f883b960e7a83eb6585ef62ad7637c36aa9ac279de4d2aa4721508b",
+      "git_blob_sha1": "a67f13d88047a034c4b7ab3931b195a7caaacf81",
+      "mode": "0o644"
+    },
+    {
+      "path": "backup-metadata/SOURCE_INVENTORY.json",
+      "bytes": 35169,
+      "sha256": "dc7559240040adac921d3097a757d605b8e5a8bbd15a9b5d61c8492396bdd5df",
+      "git_blob_sha1": "531a522253204ee7c20402e03cd5f84531b443ae",
+      "mode": "0o644"
+    },
+    {
+      "path": "extension/LICENSE",
+      "bytes": 1063,
+      "sha256": "d44b3734ef77a2bebb8508aa122ca1c40287d8ee288f0baf6437e6843e3bee00",
+      "git_blob_sha1": "d8b96e079c319ab8d6ae06908eae230e4bf4a030",
+      "mode": "0o644"
+    },
+    {
+      "path": "extension/background.js",
+      "bytes": 12555,
+      "sha256": "d1581efe15cbe3bfd20cfc95a27de09b5bbbe9f399edf97ec613079e99abe157",
+      "git_blob_sha1": "9cb7b93a33716c9d366555b7f557a7e1c101834d",
+      "mode": "0o644"
+    },
+    {
+      "path": "extension/manifest.json",
+      "bytes": 519,
+      "sha256": "36084ac56d6964b71dde07b0e66d0fdb346ae98a44d291545ce62fbb5173a985",
+      "git_blob_sha1": "92880aa7079efe44ec46085e51d96b52fce9e38a",
+      "mode": "0o644"
+    },
+    {
+      "path": "extension/popup.html",
+      "bytes": 666,
+      "sha256": "bb42aa094c8cf66d9c6659d60b7d4669ef92a00c64b1bfed7d818a10d180b5d4",
+      "git_blob_sha1": "d6d1c5ec30862339a85dcbf6a08ec32475369515",
+      "mode": "0o644"
+    },
+    {
+      "path": "extension/popup.js",
+      "bytes": 567,
+      "sha256": "199c7468fd44b8d273d944c160498aa2602739ea84aa4cc0e410b352cc0db014",
+      "git_blob_sha1": "9aea309182420cf5381e0c22a1a2491e198be383",
+      "mode": "0o644"
+    },
+    {
+      "path": "extension/session-manager.js",
+      "bytes": 1445,
+      "sha256": "e5fc9118b72022373e60eb3f0d9d33346fbed0a175c8b6a6326aeb12b657e264",
+      "git_blob_sha1": "25ee39e0e758c5cd59b8a673f883dc34c9d98774",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/download-package/bincode多浏览器控制-交接包-20261017/AI与MCP接入说明.txt",
+      "bytes": 4261,
+      "sha256": "cc5b0c2d7741fb6c42a70a12fd099db15d564ba94a47859b2d09af88d7476d89",
+      "git_blob_sha1": "3e3c2a1809894622988339e9ab70f928a294b3ce",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/download-package/bincode多浏览器控制-交接包-20261017/GitHub参考与版本.txt",
+      "bytes": 2377,
+      "sha256": "b2fc2c56b76956351aab8724af9191f51de81c8b95452972b3fbc5b4a882be8d",
+      "git_blob_sha1": "3e2d3432e7a8ed2647b743c3cdf94d51f31a46c4",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/download-package/bincode多浏览器控制-交接包-20261017/SHA256.txt",
+      "bytes": 117,
+      "sha256": "80b131996640604e125be4c335a7c29cc63994152c763f67028150c71a58f31f",
+      "git_blob_sha1": "eae45a9572919a8d95f4212ab1f7ec6abc56a7e9",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/download-package/bincode多浏览器控制-交接包-20261017/bincode-logo.png",
+      "bytes": 1542277,
+      "sha256": "62162d352b956ab242830624c12c1e6b08a0b13efc308034de43bb16ff27f26e",
+      "git_blob_sha1": "9a8782909fd1c498f4aba8e2c89c3fb1696e7664",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/download-package/bincode多浏览器控制-交接包-20261017/使用说明.html",
+      "bytes": 8147,
+      "sha256": "d91cdb45cea2c9d531a8972f4c05202cdbc7ccfda71449dc1bdba3e2b59449c8",
+      "git_blob_sha1": "076fe4f156b07ca32c8b17c4d20f5700d25cc104",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/download-package/bincode多浏览器控制-交接包-20261017/使用说明.txt",
+      "bytes": 7782,
+      "sha256": "a3a69be52a88ddf484856dc300da0c6cad4f944dae6a99c763404923c0834de0",
+      "git_blob_sha1": "e7e165d0cfca7420123502a939677fc0c66bd745",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/download-package/bincode多浏览器控制-交接包-20261017/先看这个.txt",
+      "bytes": 1159,
+      "sha256": "4688d0b95f23afbdaed8463d86b66d793114c483db03958238d7b09a1e20f18b",
+      "git_blob_sha1": "e8704e96e1cbe569ef75dba9f59c021b0d5c9b95",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/download-package/bincode多浏览器控制-交接包-20261017/压缩包验收.json",
+      "bytes": 465,
+      "sha256": "5040bf95006fd36cd51ea432434c47cc5e047f34dfcc1cf1bf872b37145a9971",
+      "git_blob_sha1": "363adac0e59172acbbfe294cbb20ffc4817005fb",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/download-package/bincode多浏览器控制-交接包-20261017/店铺与后台对应表.txt",
+      "bytes": 25631,
+      "sha256": "9e0098de0c20df5280a267d5667d35e6b9932f678af07d746833ba0577f92fef",
+      "git_blob_sha1": "e4d94a34adc2ac9125cebce3719ac6daf76041fd",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/download-package/bincode多浏览器控制-交接包-20261017/开发交接.txt",
+      "bytes": 5557,
+      "sha256": "b9325dd4825008acc03638128aac8a95840c7fb2eb7e88d0383c3dc4fa3d7172",
+      "git_blob_sha1": "1c4678b83eb920b7c4980f182cee86196b23944c",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/download-package/收到后先看.txt",
+      "bytes": 741,
+      "sha256": "9b7c5c49d45baf55122dcdc816f9cff3118adab0bac4ddd99840a2b472042d20",
+      "git_blob_sha1": "8d066a59232bfd9f284d7bd7e82ecd055d49f8da",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/installed-original-README.md",
+      "bytes": 605,
+      "sha256": "7bebcadef858b82aec8bd8a191d1477e140306e7815dea8a0b685a49e8ef9a8d",
+      "git_blob_sha1": "8b9cf300be3306fae57a46773c4c048bac8da9c8",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/original-bundle/AI与MCP接入说明.txt",
+      "bytes": 4261,
+      "sha256": "cc5b0c2d7741fb6c42a70a12fd099db15d564ba94a47859b2d09af88d7476d89",
+      "git_blob_sha1": "3e3c2a1809894622988339e9ab70f928a294b3ce",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/original-bundle/GitHub参考与版本.txt",
+      "bytes": 2377,
+      "sha256": "b2fc2c56b76956351aab8724af9191f51de81c8b95452972b3fbc5b4a882be8d",
+      "git_blob_sha1": "3e2d3432e7a8ed2647b743c3cdf94d51f31a46c4",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/original-bundle/使用说明.html",
+      "bytes": 8147,
+      "sha256": "d91cdb45cea2c9d531a8972f4c05202cdbc7ccfda71449dc1bdba3e2b59449c8",
+      "git_blob_sha1": "076fe4f156b07ca32c8b17c4d20f5700d25cc104",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/original-bundle/使用说明.txt",
+      "bytes": 7782,
+      "sha256": "a3a69be52a88ddf484856dc300da0c6cad4f944dae6a99c763404923c0834de0",
+      "git_blob_sha1": "e7e165d0cfca7420123502a939677fc0c66bd745",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/original-bundle/安装到这台Mac.command",
+      "bytes": 552,
+      "sha256": "583d935d773d9d33223bf1fa284fd16b2c8261c09f107c4a27bcbbdaf29490d1",
+      "git_blob_sha1": "47c6271edd357554dfaf95c2889e46d14a016e69",
+      "mode": "0o700"
+    },
+    {
+      "path": "handoff/original-bundle/店铺与后台对应表.txt",
+      "bytes": 25631,
+      "sha256": "9e0098de0c20df5280a267d5667d35e6b9932f678af07d746833ba0577f92fef",
+      "git_blob_sha1": "e4d94a34adc2ac9125cebce3719ac6daf76041fd",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/original-bundle/店铺入口核对.json",
+      "bytes": 65912,
+      "sha256": "2299888d3f7083acc945ec5a56d37ebdb8be0c4624265eb4cf81c920a677943d",
+      "git_blob_sha1": "4a201f707718c92318bab56addfe0f3c90693136",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/original-bundle/开发交接.txt",
+      "bytes": 5557,
+      "sha256": "b9325dd4825008acc03638128aac8a95840c7fb2eb7e88d0383c3dc4fa3d7172",
+      "git_blob_sha1": "1c4678b83eb920b7c4980f182cee86196b23944c",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/original-bundle/校验安装包.command",
+      "bytes": 350,
+      "sha256": "2a90aac6b3a95f871dc637aed96f2ed9eb6e8e06aa875ddc4e7d3793178147d6",
+      "git_blob_sha1": "392034fb20cdd643e97a95ba1d3d8c6d438ae744",
+      "mode": "0o700"
+    },
+    {
+      "path": "handoff/original-bundle/清理清单.json",
+      "bytes": 2281,
+      "sha256": "491034f20c49253693a6ca0634e7f7f77fff192b95eb1bd87a62842c70c5f065",
+      "git_blob_sha1": "f33dc3e8e42b92e1dabc69efa020274c8b7487d6",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/original-bundle/迁移工具/install.mjs",
+      "bytes": 6089,
+      "sha256": "85ff80464936a6f5d9bf66eb41b90245ea65e8be1eebafed0135db446f2e4ff2",
+      "git_blob_sha1": "0fa417eccbfcca434c9f35182e7e1d19de3bbcae",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/original-bundle/迁移工具/verify.mjs",
+      "bytes": 1941,
+      "sha256": "67938ef4c82a770d437a3d7b5536a927eb9904ac4e532f3be09c68de691d3238",
+      "git_blob_sha1": "11f20c6f4d16ced9747acb3e7de14934ede862ef",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/六平台默认入口/env-001.png",
+      "bytes": 29343,
+      "sha256": "711d9ff0742261fa8b2383f996d0b26da08197c6b9362ba492883b52a97b51b9",
+      "git_blob_sha1": "42b91deb70b7882ba23c644971ea9ade094a36e7",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/六平台默认入口/env-066.png",
+      "bytes": 669465,
+      "sha256": "89ea1d403e163ce45db4bf006587ef5c8a8e2eb85ca1b95db8d65dca0ef5af60",
+      "git_blob_sha1": "95fd8fa870ab22dcfa2012226683d85787914764",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/六平台默认入口/env-096.png",
+      "bytes": 653281,
+      "sha256": "864c890733d59f5fe08044f802c6c454f82c03f368ef36b041dbae4ce609c4b7",
+      "git_blob_sha1": "2c0044e38ab578845784ca7bbe1a625292416a1b",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/六平台默认入口/env-113.png",
+      "bytes": 170579,
+      "sha256": "200eea6b34fdf404bd27538638046f944f3b594df55d9cefdf3d2fcc9504d508",
+      "git_blob_sha1": "cd24977bb46c790ca9f31e515d1f7c5ebe5afd39",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/六平台默认入口/env-126.png",
+      "bytes": 34709,
+      "sha256": "0214ddf9c28881a202cae18a71694095405865fed8b901549ed2679e2c296def",
+      "git_blob_sha1": "878b46d6c2ead3df2a8d329cee7d9fd0d777f292",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/六平台默认入口/env-137.png",
+      "bytes": 458312,
+      "sha256": "a839084597dbed3a4b119409b4d4427eb12abdca04389ce1cc6c07e1b99bdd93",
+      "git_blob_sha1": "9d1be3d09929258ee591cd259d9e581e932b1d7d",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/六平台默认入口/入口与默认调试验收.json",
+      "bytes": 9122,
+      "sha256": "4ac602d85e35e8e423c2cf656c416af5670af33521dda48cc846811360629a91",
+      "git_blob_sha1": "28efe4a943f1997fd6b7de537c0a125304d5a76c",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/单元测试.txt",
+      "bytes": 1909,
+      "sha256": "d920297155a4f1468ac873b9c2e0adb7b67327c14265e5f1a55cd12229a6cfdb",
+      "git_blob_sha1": "b75bd435d4830871900d5f40ff35ac944765acfa",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/原生调试提示核验.json",
+      "bytes": 397,
+      "sha256": "e6cc67c92bbcdafb56f568a620e8e75d5a34480d39eb0dc1264f19b8ee9e644a",
+      "git_blob_sha1": "0f765fa5b3ce3245c52ca927169fd3c0cbfa5ff9",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/后台版本目录核验.json",
+      "bytes": 357,
+      "sha256": "b3279590705efa913abf092cbbd189fcf13d3f6810750e890f0545e7fc815531",
+      "git_blob_sha1": "23c3b97ec22ef3938f13edda1ff8acf98c83613f",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/品牌与原生窗口核验.json",
+      "bytes": 696,
+      "sha256": "ff702b2ddc7553abdd2aa13d7f46d611b8e21f2dc3fd31611211c4852ab5ebc4",
+      "git_blob_sha1": "8794d0c6abe516297337deeb0d16b92b46ebf803",
+      "mode": "0o644"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/多开与真实AI/agent-job.json",
+      "bytes": 5133,
+      "sha256": "167f39007152d873e3d13273209b7b7b326edf9c95cd499da685d8b8616ebb67",
+      "git_blob_sha1": "378ffa42043eca69de63b9dc4cad9164a9d08951",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/多开与真实AI/codex-agent.png",
+      "bytes": 160213,
+      "sha256": "d47f04ba09d0787f6a0f59a1a0911ec5314645bebb1245d68e98d92aa863d70d",
+      "git_blob_sha1": "a905421e56c4338dba21b6bc0d60e360aaf9320e",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/多开与真实AI/reopened-env-001.png",
+      "bytes": 162980,
+      "sha256": "021a0fe4fdcbfea40bfd08af395e09b18716f0f147040ba03c108beb6c299bb6",
+      "git_blob_sha1": "4d3e977bd17a802602d670e650a330bb2b756b35",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/多开与真实AI/reopened-env-002.png",
+      "bytes": 165226,
+      "sha256": "344a318f42ff6a21232990f72ad4dd589991c092d2c51a16c6f4682d74d75c3f",
+      "git_blob_sha1": "8fa90383ab08b1f20a5917c0d8be38929519ce90",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/多开与真实AI/visible-env-001.png",
+      "bytes": 162992,
+      "sha256": "2ca9812fccbe942b9b24e24ea66c2e426899fc7331fb7079bc972d42943e1183",
+      "git_blob_sha1": "b774b80caa38af458d4463acfcea5805622b0d87",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/多开与真实AI/visible-env-002.png",
+      "bytes": 165226,
+      "sha256": "344a318f42ff6a21232990f72ad4dd589991c092d2c51a16c6f4682d74d75c3f",
+      "git_blob_sha1": "8fa90383ab08b1f20a5917c0d8be38929519ce90",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/多开与真实AI/visible-env-003.png",
+      "bytes": 166570,
+      "sha256": "bde383660cee8122720a7511803b30eb0e1165ca156b9551f11003d17f0fc69c",
+      "git_blob_sha1": "80300dc4c340376ef3b51a0733390e7c2e0a1b0c",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/多开与真实AI/visible-env-004.png",
+      "bytes": 165080,
+      "sha256": "6005546a7cbb1f6d2af16c10cc128d0f518b12266053b0da44a294edf8698edf",
+      "git_blob_sha1": "f47338558c251ebe6a2ab2d8e2d667c94c0a6854",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/多开与真实AI/visible-env-005.png",
+      "bytes": 164410,
+      "sha256": "53cc9550ddb8f407b423fce027d4d4ea53a113f09383542df67ad9c38fc66e41",
+      "git_blob_sha1": "60a5f97dcf527edd1834bd949e508d79c39ca0b2",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/多开与真实AI/visible-env-006.png",
+      "bytes": 165923,
+      "sha256": "b9c65beb615f1a4bc49150e660772c394e96f9b25786f7dd15ddff20c48953be",
+      "git_blob_sha1": "94859ddd26f1845a06a0a6bd0d4b8590e6720ae2",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/多开与真实AI/visible-env-007.png",
+      "bytes": 164078,
+      "sha256": "5df662f9ad4e29eaa2c0f02ac4cee8df5da192f2a006665440e620189d9220dd",
+      "git_blob_sha1": "13e11905ce8e5af4ee0a6902df745cf7a0244f2f",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/多开与真实AI/visible-env-008.png",
+      "bytes": 166730,
+      "sha256": "90504afd4cd4fa369429be8d1bece1872bf5165f0f47f7cfb69337bc58203f47",
+      "git_blob_sha1": "d4ca4a7ac23d942d3c250e528ace627d7b0f3a67",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/多开与真实AI/visible-env-009.png",
+      "bytes": 166655,
+      "sha256": "d9bc291939698ef84511315c5109f41999eea6ac9905ea11339b58ce0b6883b8",
+      "git_blob_sha1": "bd1a3a058cdd08ec155ebfd187fc04d5f7ebaf30",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/多开与真实AI/visible-env-010.png",
+      "bytes": 163007,
+      "sha256": "1fbc6eff63d466126f37fc1cb8b56ed9964f9ce1a3c733b5cc48a3e8f3c3a5b6",
+      "git_blob_sha1": "b2e78662c04d74714d3904501816d6e8a225d16e",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/多开与真实AI/验收报告.json",
+      "bytes": 16900,
+      "sha256": "980022a5c6e678effb2785bc2fad65e9f4838ebd22a9038f744f1a3e624aa816",
+      "git_blob_sha1": "61e378db1bb0bf1605105b9a0614a78822837fe8",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/安装后MCP复核/reopened-env-001.png",
+      "bytes": 159487,
+      "sha256": "864aa8b43fcfb368c2112ea3091fdbf5371d7a6787fa6c9c0ef2daefb67121a4",
+      "git_blob_sha1": "8830c254f405c85a86f39f111e0f277a0f8c95f9",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/安装后MCP复核/reopened-env-002.png",
+      "bytes": 162242,
+      "sha256": "0c311c935952611c361321b42b5fbe96c0a70dcf2c88db359c50e777793d1fc3",
+      "git_blob_sha1": "1fac756e147aa8e1e77ce63e7c95f1278c24b78a",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/安装后MCP复核/server.log",
+      "bytes": 73,
+      "sha256": "d421bbdffccdc0cf400fef1cc5db6a125cd2cc3a5938a53263c40bb64efdf7b1",
+      "git_blob_sha1": "d3094830ed9a3a1d115a20f5d7c07bcdb768dc9b",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/安装后MCP复核/visible-env-001.png",
+      "bytes": 159487,
+      "sha256": "864aa8b43fcfb368c2112ea3091fdbf5371d7a6787fa6c9c0ef2daefb67121a4",
+      "git_blob_sha1": "8830c254f405c85a86f39f111e0f277a0f8c95f9",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/安装后MCP复核/visible-env-002.png",
+      "bytes": 162237,
+      "sha256": "4df86225f5cfd60850835749a30f97365ec8caec78b4da812ee5e1ed1457dda3",
+      "git_blob_sha1": "66ffabc7fd9e4c05c84c6fe6226effa40ed05dc7",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/安装后MCP复核/验收报告.json",
+      "bytes": 5295,
+      "sha256": "b7cd7a8019ba23f3ec31e201ecdae7469ad10ae18f8e9a198e13b6490fd68d3c",
+      "git_blob_sha1": "79a80560a30c1dde51a53c30e7cde358d640ee5e",
+      "mode": "0o600"
+    },
+    {
+      "path": "handoff/original-bundle/验收证据/安装验收.json",
+      "bytes": 487,
+      "sha256": "472eff97dc4968f7e572f90ce184e335d69c4e99d86e1cfa6e4ef5e5a8e38ef9",
+      "git_blob_sha1": "d0ecefc292b412862bf48ed417fbf30057bbaf13",
+      "mode": "0o644"
+    },
+    {
+      "path": "mac/ShopBrowserConsole.swift",
+      "bytes": 6708,
+      "sha256": "225a6a1dfa071d04321ca4b6eb010549d4778d445f3c93e4310299524704357d",
+      "git_blob_sha1": "6a5242864fe1ce4855086e9560cc192942117a68",
+      "mode": "0o644"
+    },
+    {
+      "path": "mac/original-app-resources/Contents/Info.plist",
+      "bytes": 903,
+      "sha256": "46d50a6eabe5ba36a8307003ddd7bed9587433807ecfcd2e917ce259f6746df3",
+      "git_blob_sha1": "96ab1779d8a131089f2bafd21fab654fbdee8de2",
+      "mode": "0o644"
+    },
+    {
+      "path": "mac/original-app-resources/Contents/Resources/AppIcon.icns",
+      "bytes": 1882745,
+      "sha256": "9eef905907790b62b9c903af005f2c7e9e46d33158a4dada3d8b5bbca86eb69d",
+      "git_blob_sha1": "1f2f70b0e88397974be1e6af00364f373e964a36",
+      "mode": "0o644"
+    },
+    {
+      "path": "mac/original-app-resources/Contents/Resources/fleet-path.txt",
+      "bytes": 58,
+      "sha256": "38235fd31a9ed692b1084000f99e890d2ab91b0fb2d826e215ac12e15a450ed7",
+      "git_blob_sha1": "9f5def0061fb5985bae375a6d7f0e67890466964",
+      "mode": "0o644"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 44321,
+      "sha256": "62208e8d86eca9a2ecf87bad83c9d3644e9da7fb25b2c010d12ab993a9a292bf",
+      "git_blob_sha1": "4a89e8877801c99beff35885de3b4d20d8374a8b",
+      "mode": "0o644"
+    },
+    {
+      "path": "package.json",
+      "bytes": 426,
+      "sha256": "d74555adb9a7fa4da642ea247978c2942d95ab8751b914b0a2561238021cba0e",
+      "git_blob_sha1": "a17987ce3f2fbcff3507118f4acdd49cc013fb5c",
+      "mode": "0o644"
+    },
+    {
+      "path": "public/app.js",
+      "bytes": 22249,
+      "sha256": "8e6c5171d25281f79c51d39b94e83b877bfa2e659b5f67873285a200f268f012",
+      "git_blob_sha1": "fe0b0a49cf397d92ddb19f2205a87be54ac0cd6f",
+      "mode": "0o644"
+    },
+    {
+      "path": "public/index.html",
+      "bytes": 9615,
+      "sha256": "60a24f66e98c236305ba3d228cbfe8501dc18dc265aea9003ce1d03548aa6fcb",
+      "git_blob_sha1": "ee7c8ad17e41743c11d8e433f078dcc1ec386f92",
+      "mode": "0o644"
+    },
+    {
+      "path": "public/logo.png",
+      "bytes": 285056,
+      "sha256": "0179d706702622f1626b4d13b6814ba190efb3adf9dd1b04593974f4a090c548",
+      "git_blob_sha1": "76cba6793978b90548f8040ec200702b4e40466e",
+      "mode": "0o644"
+    },
+    {
+      "path": "public/paging.js",
+      "bytes": 980,
+      "sha256": "b3b949bb2423eb703a15520ff5ec6408a2426560f0d9e6caf25d2c8b7992f570",
+      "git_blob_sha1": "7c8d732e68298609272e285aaa5babb1314cbf71",
+      "mode": "0o644"
+    },
+    {
+      "path": "public/style.css",
+      "bytes": 12178,
+      "sha256": "6dfa290108ab8627e88018257d60e52b260ba6b25fb866f3d131d839b68aa314",
+      "git_blob_sha1": "9f1188a6e5a2a07072bc301d2d269a6d3ce8e0f5",
+      "mode": "0o644"
+    },
+    {
+      "path": "scripts/build-icon.sh",
+      "bytes": 691,
+      "sha256": "552387e5a1001b6738b5d9bd56d4fd13cf0592651f7e8d19d29f051670bff4dd",
+      "git_blob_sha1": "14c3230ad661176bdb40c8e0fe507400052b7d43",
+      "mode": "0o755"
+    },
+    {
+      "path": "scripts/build-mac-console.sh",
+      "bytes": 2348,
+      "sha256": "42e1136997a4ff31f341b61ffecf50b2f3e7aa290d5bd6fed564d452c36c5cf6",
+      "git_blob_sha1": "5476249d786d16189b1aaee9a38bac8d6b1a589c",
+      "mode": "0o755"
+    },
+    {
+      "path": "scripts/launch.mjs",
+      "bytes": 1520,
+      "sha256": "bc0f7f8f739b02f9be32d7b7efda5ec1e9441016d428c7de5a489bb355217f12",
+      "git_blob_sha1": "9bbc6f65821778d1e15fde4ba3f3be6c5f80d11a",
+      "mode": "0o644"
+    },
+    {
+      "path": "scripts/portable/check-multi-mcp.mjs",
+      "bytes": 14040,
+      "sha256": "a7cd14fad074f7477d195136d0ee1e9a767bc284f4d808507d70a5b2bf4c4f3f",
+      "git_blob_sha1": "df4f9a58bf73d7615c4b84697a78e95dff913a32",
+      "mode": "0o644"
+    },
+    {
+      "path": "scripts/portable/codex.sh",
+      "bytes": 216,
+      "sha256": "7a5c03802a32665b174a493d59b709355842b8899007b0b0cc99187e2360e8e5",
+      "git_blob_sha1": "dc038b42b536090544532a8b29b33a5f05e5e188",
+      "mode": "0o755"
+    },
+    {
+      "path": "scripts/portable/connect-codex.mjs",
+      "bytes": 1475,
+      "sha256": "7faa75913f4f2a3d537953065b7933c13d853eb485e30ef289bb7338ca03f8c4",
+      "git_blob_sha1": "8e7cb1546233b2761b869cce3b6350ee87c6edf9",
+      "mode": "0o644"
+    },
+    {
+      "path": "scripts/portable/doctor.mjs",
+      "bytes": 1436,
+      "sha256": "4c223d5bedf8d1e1b6c59748343e11e90321ba8de4cb9622c0b16dc440e24eda",
+      "git_blob_sha1": "b89218c873201f8a129670a561bfcc755826fceb",
+      "mode": "0o644"
+    },
+    {
+      "path": "scripts/portable/mcp-config.mjs",
+      "bytes": 1348,
+      "sha256": "18637bec981460e4dd001afebf8e0ee49915701f7afd214f0392fcafbcdc0b38",
+      "git_blob_sha1": "6e3f1b07d501651499604bc98e7c7181e8cce5a2",
+      "mode": "0o644"
+    },
+    {
+      "path": "scripts/portable/start.sh",
+      "bytes": 466,
+      "sha256": "e94932ecb5e8fe2a366028eed05381c9b7e9aebd382b9cfcab8ee5b7ca4446a7",
+      "git_blob_sha1": "478cfb44d138d418c84e14e34d5abfcacde997f1",
+      "mode": "0o755"
+    },
+    {
+      "path": "src/client.mjs",
+      "bytes": 639,
+      "sha256": "e3f8f2e4c01ad12439e9704ef5fccd5352cf0378c36d49fd6f6c0ef5ed99b00f",
+      "git_blob_sha1": "040dd0a4b0576f01ab0596e634511fb4a8dcc49a",
+      "mode": "0o644"
+    },
+    {
+      "path": "src/fleet.mjs",
+      "bytes": 26325,
+      "sha256": "c7aa4b9cfa3fbb0abc51daa876cb20ea8093bf1f41253aba8db1191d846afcb8",
+      "git_blob_sha1": "19f186970810681bfaebdf2f0b29a4d96f5dc51b",
+      "mode": "0o644"
+    },
+    {
+      "path": "src/identity.mjs",
+      "bytes": 3670,
+      "sha256": "eea8add7e2b8fa1b63f723a25a2b26e66c89daa39e8d60239f425b48f10a3904",
+      "git_blob_sha1": "804a16fc2e89fad60670a89c4cf33c99f9454f2d",
+      "mode": "0o644"
+    },
+    {
+      "path": "src/mcp.mjs",
+      "bytes": 4392,
+      "sha256": "a459296e1a951e872633f132c22e2007f41a7b9fa01f10402900e0f5b51cb41a",
+      "git_blob_sha1": "35ac635612f43753829f63ee43c917b765d73add",
+      "mode": "0o644"
+    },
+    {
+      "path": "src/providers.mjs",
+      "bytes": 10946,
+      "sha256": "ca72e86aa91d2ae5c461c19ac5faad4577b7c625273e6376910e5f9053ba30ab",
+      "git_blob_sha1": "ed56d42f0a848981d80231c126cbec96922e4231",
+      "mode": "0o644"
+    },
+    {
+      "path": "src/server.mjs",
+      "bytes": 8273,
+      "sha256": "6f5908d5aed6d6cfbfd3804cdb72dc74977477710739943811c9ea023fece355",
+      "git_blob_sha1": "7f0151db23fcb632a36272a115f4556c17ce2f9f",
+      "mode": "0o644"
+    },
+    {
+      "path": "src/store.mjs",
+      "bytes": 3695,
+      "sha256": "e0b5b4341586cffcfe41f3498fb7cda5d67b2d2c23ff31227adbb77c25398977",
+      "git_blob_sha1": "3fc7d7a5b5aeee13102b3751c76475e000f55e25",
+      "mode": "0o644"
+    },
+    {
+      "path": "src/verification.mjs",
+      "bytes": 3251,
+      "sha256": "0b12fea669fd306af9e1816c50e347450fe68c5a9c3b5ce860bff1a0b25e0576",
+      "git_blob_sha1": "543c7e52fa7d95a62211bc7f383665f60745d27b",
+      "mode": "0o644"
+    },
+    {
+      "path": "src/workflows.mjs",
+      "bytes": 11850,
+      "sha256": "31f901e394496497c3c0aee1ef8d3a4281a8026d213c0375855a2bc8258e8578",
+      "git_blob_sha1": "a7349f17cd8631b63ec140fc794ab404df4f91b9",
+      "mode": "0o644"
+    },
+    {
+      "path": "tests/fleet.test.mjs",
+      "bytes": 4081,
+      "sha256": "60f52a8e809e31f37a27150263e9701f3675e0cfb27e814030665ce6fb174bfb",
+      "git_blob_sha1": "b362dbcd44f6abbfc5ce073ee5ea3ae7cb04a9ad",
+      "mode": "0o644"
+    },
+    {
+      "path": "tests/identity.test.mjs",
+      "bytes": 5193,
+      "sha256": "319a5da415cc7e70b384eb091180645153ea81ea59e9d30987afd76453e3e8c5",
+      "git_blob_sha1": "b36d60f93cdbc6bb6561b49a6708189ab77861ac",
+      "mode": "0o644"
+    },
+    {
+      "path": "tests/repair.test.mjs",
+      "bytes": 4212,
+      "sha256": "dbcd7895c9f9adccffde0270e9da877431e6f29304809295f242d28de018d1d8",
+      "git_blob_sha1": "093ad09b7428f0898eb63ac7852088f3e003f098",
+      "mode": "0o644"
+    },
+    {
+      "path": "tests/workflows.test.mjs",
+      "bytes": 1440,
+      "sha256": "1fe8846ed77eea05748e099fd19eda957e1dec3c1cb8ef2638441dab990ea469",
+      "git_blob_sha1": "d94a266a2dde0c3b79e7b7a1cd9ad0fa7a30ea9f",
+      "mode": "0o644"
+    },
+    {
+      "path": "使用说明.html",
+      "bytes": 8147,
+      "sha256": "d91cdb45cea2c9d531a8972f4c05202cdbc7ccfda71449dc1bdba3e2b59449c8",
+      "git_blob_sha1": "076fe4f156b07ca32c8b17c4d20f5700d25cc104",
+      "mode": "0o644"
+    },
+    {
+      "path": "使用说明.txt",
+      "bytes": 7782,
+      "sha256": "a3a69be52a88ddf484856dc300da0c6cad4f944dae6a99c763404923c0834de0",
+      "git_blob_sha1": "e7e165d0cfca7420123502a939677fc0c66bd745",
+      "mode": "0o644"
+    },
+    {
+      "path": "停止后台.command",
+      "bytes": 714,
+      "sha256": "90223c7bc1b9f7c663ba24480300d2c7ed5342d5e46c461c6d073a988f63d887",
+      "git_blob_sha1": "9b0782cdd6769ffcd362773afb8f4fc8ebf5a487",
+      "mode": "0o755"
+    },
+    {
+      "path": "启动后台.sh",
+      "bytes": 74,
+      "sha256": "c5d70ec1ee1131c4c0b38583159ada3f9ce67e8339a3c83d86beb88ed1e9a3e6",
+      "git_blob_sha1": "91cfcd9248ac83585ddadca2360fb051f6a57c5d",
+      "mode": "0o755"
+    },
+    {
+      "path": "启动控制台.command",
+      "bytes": 64,
+      "sha256": "60f6853e668aef52b4cc0485d3b28f93051d40cfbf523bdc2ab6ddea3d775bdb",
+      "git_blob_sha1": "471602bb629180719be60d28e05d052db3f5703e",
+      "mode": "0o755"
+    },
+    {
+      "path": "店铺与后台对应表.txt",
+      "bytes": 25631,
+      "sha256": "9e0098de0c20df5280a267d5667d35e6b9932f678af07d746833ba0577f92fef",
+      "git_blob_sha1": "e4d94a34adc2ac9125cebce3719ac6daf76041fd",
+      "mode": "0o644"
+    },
+    {
+      "path": "店铺入口核对.json",
+      "bytes": 65912,
+      "sha256": "2299888d3f7083acc945ec5a56d37ebdb8be0c4624265eb4cf81c920a677943d",
+      "git_blob_sha1": "4a201f707718c92318bab56addfe0f3c90693136",
+      "mode": "0o644"
+    },
+    {
+      "path": "开发交接.txt",
+      "bytes": 5557,
+      "sha256": "b9325dd4825008acc03638128aac8a95840c7fb2eb7e88d0383c3dc4fa3d7172",
+      "git_blob_sha1": "1c4678b83eb920b7c4980f182cee86196b23944c",
+      "mode": "0o644"
+    },
+    {
+      "path": "检查AI实际操作.command",
+      "bytes": 179,
+      "sha256": "dc050689d67f741b03a36b17d8e1c6e5609779ea0e692838b6a008d79ef5a70d",
+      "git_blob_sha1": "e9cb94f4b9d4363ce4d675e6e31d433f82b05e78",
+      "mode": "0o755"
+    },
+    {
+      "path": "检查AI登录.command",
+      "bytes": 182,
+      "sha256": "7ca70476f0990209d30504491e51adbbef4bb869d5cad9892b9c69ed9f269827",
+      "git_blob_sha1": "ccaac55d3b4843e1570e437f90bc1ab64971219f",
+      "mode": "0o755"
+    },
+    {
+      "path": "检查多开与MCP.command",
+      "bytes": 171,
+      "sha256": "2596a1c248da955ed61977d33139993577d8f9f02a7866ffd297455975a89655",
+      "git_blob_sha1": "7e2a40f6082da3199302ee1a9efa89088db6cd44",
+      "mode": "0o755"
+    },
+    {
+      "path": "登录AI.command",
+      "bytes": 130,
+      "sha256": "78df37e51e1e24ffeef99c94db7da0a1b5bfb7f3d79e24274c88ba29ed859aa9",
+      "git_blob_sha1": "5977c31d50b46729bc424805f51dfd84f4e7dbad",
+      "mode": "0o755"
+    },
+    {
+      "path": "连接到Codex MCP.command",
+      "bytes": 169,
+      "sha256": "50e6cc8dca93da16f5a31286c9b4b8a0880fa9834b42abd7a01b5524b4f6dd88",
+      "git_blob_sha1": "5a89e83efe914c1698f4e80cda934a963a8a2118",
+      "mode": "0o755"
+    }
+  ],
+  "file_count_excluding_this_manifest": 123
+}
